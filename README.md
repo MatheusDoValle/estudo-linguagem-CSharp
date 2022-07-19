@@ -10,9 +10,9 @@
  * Comportamento de clases
  * Namespace
  * Propriedades 
- * Contrutures
- * Membros estáricos
+ * Contrutores
+ * Membros estáticos
  * Orientação a Objetos
  * Entendendo Herança
- * Uso de Classes abstratas 
+ * Uso de classes abstratas 
  * Trabalho com interfaces
